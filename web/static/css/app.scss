@@ -1,0 +1,24 @@
+.header {
+	background-image: -webkit-radial-gradient(50% 50%, circle, #F7E7CE 29%, #D1B78F 120%);
+    background-image: radial-gradient( circle at 50% 50%, #F7E7CE 29%, #D1B78F 120%);
+}
+
+.icon-bar {
+	background-color: #5E4116;
+}
+
+.space60 {
+	margin-top:60px;
+}
+
+.jumbotron {
+	background: transparent;
+}
+
+.header a {
+	color: #5E4116 !important;
+}
+
+.align-center {
+	text-align: center;
+}

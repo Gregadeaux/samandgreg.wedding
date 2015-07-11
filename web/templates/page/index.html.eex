@@ -1,0 +1,34 @@
+<div id="header" class="header">
+  <nav class="navbar">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li><a href="#">MENU 1</a></li>
+          <li><a href="#">MENU 2</a></li>
+          <li><a href="#">MENU 3</a></li>
+          <li><a href="#">MENU 4</a></li>
+          <li><a href="#">MENU 5</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="jumbotron">
+    <div class="container">
+      <div class="col-md-8 col-md-offset-2 align-center">
+        <h2>The Billetdeaux-Scharles Wedding</h2>
+        <h3>Month Day, Year</h3>
+        <div class="space60"></div>
+        <p>Join us for the wedding of Gregory Billetdeaux and Samantha Scharles</p>
+      </div>
+    </div>
+  </div>
+</header>
+
